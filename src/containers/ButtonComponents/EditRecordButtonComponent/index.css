@@ -1,0 +1,10 @@
+.edit-record-btn-style{
+    background-color: rgb(192, 194, 63); 
+    cursor: pointer;
+    margin: 1vh;
+    border: none;
+    color: white;
+    padding: 2vh;
+    text-align: center;
+    font-size: 16px;
+}

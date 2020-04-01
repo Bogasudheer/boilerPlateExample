@@ -1,0 +1,10 @@
+.new-record-btn-style {
+    background-color: #4CAF50; 
+    cursor: pointer;
+    margin: 1vh;
+    border: none;
+    color: white;
+    padding: 2vh;
+    text-align: center;
+    font-size: 16px;
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1,
+    "name": "manager",
+    "pages": [
+        {
+            "pageName": "button",
+            "pagePath": "/xyz",
+            "canAdd": false,
+            "canEdit": true,
+            "canDelete": true
+        },
+        {
+            "pageName": "input",
+            "pagePath": "/xyz",
+            "canEdit": false,
+            "canShow":true
+        },
+        {
+            "pageName": "selectBox",
+            "pagePath": "/xyz",
+            "canEdit": true,
+            "canShow":true
+        },
+        {
+            "pageName": "checkBox",
+            "pagePath": "/xyz",
+            "canEdit": true,
+            "canShow":true
+        }
+    ],
+    "options": [
+        {
+            "value": "",
+            "name": "Please Select"
+        },
+        {
+            "value": 12,
+            "name": "Monthly"
+        },
+        {
+            "value": 3,
+            "name": "Quarterly"
+        },
+        {
+            "value": 1,
+            "name": "Yearly"
+        }
+    ]
+}
